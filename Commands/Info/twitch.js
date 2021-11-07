@@ -11,7 +11,7 @@ module.exports = {
       )
       .setDescription(
         `
-        👾 Seguinos en Twitch para ver todos los contenidos en vivo:\n
+        👾 Seguinos en **Twitch** para ver todos los contenidos en vivo:\n
         https://www.twitch.tv/apxschool
         `
       );
