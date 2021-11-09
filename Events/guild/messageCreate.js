@@ -22,7 +22,7 @@ module.exports = async (client, discord, message) => {
    const cmd = args.shift().toLowerCase();
 
    // Obtiene el nombre del comando.
-   const command = client.commands.get(cmd) || client.commands.find((a) => a.aliases.includes(cmd)); // Ejecuta el comando original según escribamos sus alias.
+   const command = client.commands.get(cmd); // Ejecuta el comando original según escribamos sus alias.
 
    // Si se ingresa un comando no existente, el bot informará.
    if (command) {
