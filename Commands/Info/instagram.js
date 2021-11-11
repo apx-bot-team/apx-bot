@@ -7,14 +7,16 @@ module.exports = {
       .setTitle("Instagram")
       .setURL("https://www.instagram.com/apx.school/")
       .setThumbnail(
-        "https://instagram.faep9-2.fna.fbcdn.net/v/t51.2885-19/s150x150/217973495_1662780450585305_3596189842885151260_n.jpg?_nc_ht=instagram.faep9-2.fna.fbcdn.net&_nc_ohc=7Tbgp5DVahAAX_enfPl&edm=ABfd0MgBAAAA&ccb=7-4&oh=7aa3391ab18772428e1a7b1043f6b7d1&oe=618D1353&_nc_sid=7bff83"
+        "https://instagram.faep9-2.fna.fbcdn.net/v/t51.2885-19/s150x150/217973495_1662780450585305_3596189842885151260_n.jpg?_nc_ht=instagram.faep9-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=ZhSIywZFMPoAX8mMLmd&edm=ALbqBD0BAAAA&ccb=7-4&oh=ff64ef6399741c4893df99310930f449&oe=6194FC53&_nc_sid=9a90d6"
       )
       .setAuthor(client.user.username)
       .setDescription(
-        "Comunidad abierta de personas que programan 🤓 \nEscuela online, a tu ritmo y acompañadx 👩🏼‍💻👨🏻‍💻\nVos también podés aprender a programar 💪🏼"
+        `Comunidad abierta de **personas que programan**🤓\n
+        Escuela online, a tu ritmo y acompañadx. 👩🏼‍💻👨🏻‍💻\n
+        Vos también podés aprender a programar. 💪🏼`
       )
       .setFooter(
-        "📸 Seguinos en instagram para enterarte de todas las novedades"
+        "📸 Seguinos en Instagram para enterarte de todas las novedades"
       );
     message.reply({ embeds: [embedComuInfo] });
   },
