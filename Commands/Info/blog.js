@@ -6,9 +6,6 @@ module.exports = {
       .setColor("#F7C74C")
       .setTitle("Blog")
       .setURL("https://apx.school/blog")
-      .setThumbnail(
-        "https://cdn.sanity.io/images/9uwkxuld/production/3040fb5844ed03ddfe29ace69ddf39366e3533ec-1440x250.png?w=600&h=300&auto=format&fit=crop"
-      )
       .setDescription(
         `
         :books: **¿Sabías que tenemos un blog?** :books:\n
@@ -19,6 +16,9 @@ module.exports = {
 
         [¿Vamos a leer?](https://apx.school/blog)
         `
+      )
+      .setImage(
+        "https://cdn.sanity.io/images/9uwkxuld/production/3040fb5844ed03ddfe29ace69ddf39366e3533ec-1440x250.png?w=600&h=300&auto=format&fit=crop"
       );
     message.reply({ embeds: [embedComuInfo] });
   },
