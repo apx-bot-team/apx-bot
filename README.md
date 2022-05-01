@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://i.ibb.co/mqzvmTD/logo-bot-apx-negro.png" height="30%" width="30%">
+<img align="center" src="https://i.ibb.co/mqzvmTD/logo-bot-apx-negro.png" height="150px" width="150px">
 </p>
 
 ---
@@ -25,8 +25,9 @@ La idea de este bot surge en principio como parte de un proyecto, tomando como o
 ## Construido con 🛠️
 
 <p align="center">
-<a href="https://nodejs.org/es/" target="_blank"><img height="15%" width="15%" align="center" src="https://user-images.githubusercontent.com/69740939/166124162-e91a8efb-d156-4075-af4a-9553658744aa.png" alt="nodejs"/></a><a href="https://nodejs.org/es/" target="_blank"><img align="center" src="https://img.shields.io/badge/Made%20with-Node.js-3C873A?style=flat&logo=Node.js&logoColor=3C873A" alt="nodejs"/></a>
-<a href="https://nodejs.org/es/" target="_blank"><img style="border-radius: 3px" height="15%" width="15%" align="center" src="https://user-images.githubusercontent.com/69740939/166124111-37a09bf3-3eaa-4123-a88a-b47ba7f9a18f.png" alt="nodejs"/></a><a href="https://www.npmjs.com/package/discord.js" target="_blank"><img align="center" src="https://img.shields.io/badge/Used module-Discord.js-3251CF?style=flat&logo=npm&logoColor=white" alt="discordjs"/></a>
+<a href="https://nodejs.org/es/" target="_blank"><img height="50px" width="50px" align="center" src="https://user-images.githubusercontent.com/69740939/166124162-e91a8efb-d156-4075-af4a-9553658744aa.png" alt="nodejs"/></a><a href="https://nodejs.org/es/" target="_blank"><img align="center" src="https://img.shields.io/badge/Made%20with-Node.js-3C873A?style=flat&logo=Node.js&logoColor=3C873A" alt="nodejs"/></a>
+<br>
+<a href="https://nodejs.org/es/" target="_blank"><img style="border-radius: 3px" height="50px" width="50px" align="center" src="https://user-images.githubusercontent.com/69740939/166124111-37a09bf3-3eaa-4123-a88a-b47ba7f9a18f.png" alt="nodejs"/></a><a href="https://www.npmjs.com/package/discord.js" target="_blank"><img align="center" src="https://img.shields.io/badge/Used module-Discord.js-3251CF?style=flat&logo=npm&logoColor=white" alt="discordjs"/></a>
 </p>
   
 ## Características 📋
@@ -44,6 +45,6 @@ Todas las contribuciones son bienvenidas, recordá **leer la información** aten
 Si tenes alguna duda, te invitamos a unirte al servidor dedicado a este proyecto, asi como también a unirte a la comunidad para la que va a realizarse!
 
 <p align="center">
-<a href="https://discord.gg/Xxk5TZqcuf" target="_blank"><img align="center" height="100px" width="250px" align="center" src="https://user-images.githubusercontent.com/69740939/166128332-c9397ac6-7b92-44fd-91cd-cc49997db0aa.png" alt="nodejs"/></a>
-<a href="https://apx.school/discord" target="_blank"><img align="center" height="100px" width="250px" align="center" src="https://user-images.githubusercontent.com/69740939/166128852-fc21b1fe-e978-45fa-8468-7cd47f3f0b6b.png" alt="nodejs"/></a>
+<a href="https://discord.gg/Xxk5TZqcuf" target="_blank"><img align="center" height="200px" width="200px" align="center" src="https://user-images.githubusercontent.com/69740939/166138298-0351a15e-463b-4259-9821-6f2c3c069d05.png" alt="nodejs"/></a>
+<a href="https://apx.school/discord" target="_blank"><img align="center" height="200px" width="200px" align="center" src="https://user-images.githubusercontent.com/69740939/166138243-631811db-7a29-4ff6-88fb-d541481391f9.png" alt="nodejs"/></a>
 </p>
