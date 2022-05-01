@@ -18,7 +18,7 @@
 
 ## ¿Qué es Ѧ⥩⤫? 
 
-**Ѧ⥩⤫** es un bot de Discord multipropósito codeado en **JavaScript** usando **Discord.js**, el cual tiene como finalidad automatizar ciertas tareas repetitivas, posibilitando el autoabastecimiento y autogestión por parte de los usuarios.
+**Ѧ⥩⤫** es un bot de Discord multipropósito codeado en **NodeJS** usando **Discord.js**, el cual tiene como finalidad automatizar ciertas tareas repetitivas, posibilitando el autoabastecimiento y autogestión por parte de los usuarios.
 
 La idea de este bot surge en principio como parte de un proyecto, tomando como objeto base a la **comunidad apx**, con el fin de brindar un "asistente" que cubra aspectos _específicos_ dentro de el servidor de Discord, sumado a un mayor poder de manipulación y personalización.
 
