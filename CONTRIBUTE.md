@@ -18,7 +18,13 @@ Si queres contribuir a este proyecto como desarrollador, es importante que [fork
 #### Configuración necesaria 🔧
 Para instalar las dependencias necesarias, dirigirse al directorio del proyecto donde se encuentra el archivo `package.json` y en la terminal ejecutar el comando ```npm install``` o ```yarn install```.
 
-<img src="https://user-images.githubusercontent.com/69740939/166126487-a625f420-2bf4-40d9-ab8e-245bc45c2822.png">
+```
+"dependencies": {
+ "discord.js": "^13.3.1",
+ "dotenv": "^10.0.0",
+ "nodemon": "^2.0.14"
+}
+```
 
 Una vez instaladas las dependencias, tener encuenta las siguientes indicaciones:
 - Seguir los formatos/convenciones previamente establecidos.
