@@ -1,7 +1,7 @@
 ## Para empezar...
 Gracias por considerar contribuir a este proyecto. Cabe destacar que no siempre necesitas escribir código para contribuir. Podes hacerlo de las siguientes formas:
 
-### En las sección "Issues"
+### En la sección "Issues"
 
 - ### *Reportar un bug 🪳*
 Antes de enviar un nuevo reporte verifique que dicho bug no haya sido reportado o resuelto. De lo contrario, podes crear un **New Issue** utilizando el template **Bug report**. Incluya toda la información que tenga para una mejor solución por parte de los desarrolladores.
